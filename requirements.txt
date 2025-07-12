@@ -1,0 +1,19 @@
+# Core libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+missingno==0.5.2
+
+# Machine Learning
+scikit-learn==1.4.1
+xgboost==2.0.3
+
+# Model Saving
+pickle5==0.0.11
+
+# Optional (for deployment/UI)
+streamlit==1.34.0
+shap==0.44.0
